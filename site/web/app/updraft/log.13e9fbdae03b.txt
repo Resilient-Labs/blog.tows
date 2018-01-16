@@ -1,0 +1,339 @@
+0000.002 (0) Opened log file at time: Thu, 11 Jan 2018 16:15:08 +0000 on http://friends-of-frieda-garcia-park.test/wp
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.13.1.1 WP: 4.9 PHP: 7.1.12-3+ubuntu16.04.1+deb.sury.org+1 (fpm-fcgi, Linux friends-of-frieda-garcia-park 4.4.0-87-generic #110-Ubuntu SMP Tue Jul 18 12:55:35 UTC 2017 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.13.3 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36.3M | 2M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 145907 MB
+0000.022 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.026 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.030 (0) Set semaphore last lock (fd) time to 2018-01-11 16:15:08
+0000.032 (0) Semaphore lock (fd) complete
+0000.038 (0) Backup run: resumption=0, nonce=13e9fbdae03b, begun at=1515687308 (0s ago), job type=backup
+0000.040 (0) Scheduling a resumption (1) after 300 seconds (1515687608) in case this run gets aborted
+0000.053 (0) Checking if we have a zip executable available
+0000.056 (0) Creation of backups of directories: beginning
+0000.064 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.721 (0) Total entities for the zip file: 264 directories, 1608 files (0 skipped as non-modified), 39.8 MB
+0000.763 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.799 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.836 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.888 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.926 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.928 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.1 MB, 1608 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.054 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 600 files added (on-disk size: 3300.1 KB)
+0003.092 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 700 files added (on-disk size: 3300.1 KB)
+0003.131 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 800 files added (on-disk size: 3300.1 KB)
+0003.171 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 900 files added (on-disk size: 3300.1 KB)
+0003.216 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1000 files added (on-disk size: 3300.1 KB)
+0003.220 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20 MB, 1608 files batched, 501 (1002) added so far); re-opening (prior size: 3300.1 KB)
+0006.477 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1100 files added (on-disk size: 9152.5 KB)
+0006.538 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1200 files added (on-disk size: 9152.5 KB)
+0006.595 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1300 files added (on-disk size: 9152.5 KB)
+0006.648 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1400 files added (on-disk size: 9152.5 KB)
+0006.703 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1500 files added (on-disk size: 9152.5 KB)
+0006.709 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 MB, 1608 files batched, 501 (1503) added so far); re-opening (prior size: 9152.5 KB)
+0007.835 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip.tmp: 1600 files added (on-disk size: 10236.2 KB)
+0008.455 (0) Created plugins zip (0) - 10312.2 KB in 8.4 s (1230 KB/s) (sha1: ec7fc0eeea4ec23f49db00c22a63d85e08d3a3da, sha256: 3bc58090f303aa8fc54d16d37831fc574be5e91aba33c6ee03a209177b17bb42)
+0008.469 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.955 (0) Total entities for the zip file: 2715 directories, 16122 files (0 skipped as non-modified), 189.4 MB
+0015.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0017.962 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 100 files added (on-disk size: 441.1 KB)
+0018.042 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 200 files added (on-disk size: 441.1 KB)
+0018.107 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 300 files added (on-disk size: 441.1 KB)
+0018.189 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 400 files added (on-disk size: 441.1 KB)
+0018.255 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 500 files added (on-disk size: 441.1 KB)
+0018.258 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 16122 files batched, 501 (502) added so far); re-opening (prior size: 441.1 KB)
+0019.574 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 600 files added (on-disk size: 2946.8 KB)
+0019.635 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 700 files added (on-disk size: 2946.8 KB)
+0019.697 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 800 files added (on-disk size: 2946.8 KB)
+0019.756 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 900 files added (on-disk size: 2946.8 KB)
+0019.817 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1000 files added (on-disk size: 2946.8 KB)
+0019.821 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 16122 files batched, 501 (1003) added so far); re-opening (prior size: 2946.8 KB)
+0021.222 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1100 files added (on-disk size: 4067.4 KB)
+0021.284 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1200 files added (on-disk size: 4067.4 KB)
+0021.345 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1300 files added (on-disk size: 4067.4 KB)
+0021.407 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1400 files added (on-disk size: 4067.4 KB)
+0021.473 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1500 files added (on-disk size: 4067.4 KB)
+0021.477 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.4 MB, 16122 files batched, 501 (1504) added so far); re-opening (prior size: 4067.4 KB)
+0022.452 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1600 files added (on-disk size: 4614.9 KB)
+0022.515 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1700 files added (on-disk size: 4614.9 KB)
+0022.576 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1800 files added (on-disk size: 4614.9 KB)
+0022.637 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 1900 files added (on-disk size: 4614.9 KB)
+0022.698 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2000 files added (on-disk size: 4614.9 KB)
+0022.703 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.4 MB, 16122 files batched, 501 (2005) added so far); re-opening (prior size: 4614.9 KB)
+0023.912 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2100 files added (on-disk size: 4886.6 KB)
+0023.990 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2200 files added (on-disk size: 4886.6 KB)
+0024.077 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2300 files added (on-disk size: 4886.6 KB)
+0024.168 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2400 files added (on-disk size: 4886.6 KB)
+0024.229 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2500 files added (on-disk size: 4886.6 KB)
+0024.235 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.9 MB, 16122 files batched, 501 (2506) added so far); re-opening (prior size: 4886.6 KB)
+0025.305 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2600 files added (on-disk size: 5626 KB)
+0025.366 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2700 files added (on-disk size: 5626 KB)
+0025.427 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2800 files added (on-disk size: 5626 KB)
+0025.488 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 2900 files added (on-disk size: 5626 KB)
+0025.549 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3000 files added (on-disk size: 5626 KB)
+0025.555 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 16122 files batched, 501 (3007) added so far); re-opening (prior size: 5626 KB)
+0027.039 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3100 files added (on-disk size: 6884.3 KB)
+0027.119 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3200 files added (on-disk size: 6884.3 KB)
+0027.192 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3300 files added (on-disk size: 6884.3 KB)
+0027.268 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3400 files added (on-disk size: 6884.3 KB)
+0027.348 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3500 files added (on-disk size: 6884.3 KB)
+0027.357 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.4 MB, 16122 files batched, 501 (3508) added so far); re-opening (prior size: 6884.3 KB)
+0028.476 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3600 files added (on-disk size: 7156.7 KB)
+0028.536 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3700 files added (on-disk size: 7156.7 KB)
+0028.597 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3800 files added (on-disk size: 7156.7 KB)
+0028.659 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 3900 files added (on-disk size: 7156.7 KB)
+0028.724 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4000 files added (on-disk size: 7156.7 KB)
+0028.731 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 16122 files batched, 501 (4009) added so far); re-opening (prior size: 7156.7 KB)
+0029.828 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4100 files added (on-disk size: 7761 KB)
+0029.892 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4200 files added (on-disk size: 7761 KB)
+0029.954 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4300 files added (on-disk size: 7761 KB)
+0030.015 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4400 files added (on-disk size: 7761 KB)
+0030.081 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4500 files added (on-disk size: 7761 KB)
+0030.088 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10 MB, 16122 files batched, 501 (4510) added so far); re-opening (prior size: 7761 KB)
+0032.007 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4600 files added (on-disk size: 8757.6 KB)
+0032.073 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4700 files added (on-disk size: 8757.6 KB)
+0032.140 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4800 files added (on-disk size: 8757.6 KB)
+0032.203 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 4900 files added (on-disk size: 8757.6 KB)
+0032.272 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5000 files added (on-disk size: 8757.6 KB)
+0032.281 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.5 MB, 16122 files batched, 501 (5011) added so far); re-opening (prior size: 8757.6 KB)
+0033.361 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5100 files added (on-disk size: 9033.1 KB)
+0033.427 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5200 files added (on-disk size: 9033.1 KB)
+0033.493 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5300 files added (on-disk size: 9033.1 KB)
+0033.556 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5400 files added (on-disk size: 9033.1 KB)
+0033.618 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5500 files added (on-disk size: 9033.1 KB)
+0033.628 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 16122 files batched, 501 (5512) added so far); re-opening (prior size: 9033.1 KB)
+0034.922 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5600 files added (on-disk size: 9669.4 KB)
+0034.986 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5700 files added (on-disk size: 9669.4 KB)
+0035.057 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5800 files added (on-disk size: 9669.4 KB)
+0035.137 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 5900 files added (on-disk size: 9669.4 KB)
+0035.230 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6000 files added (on-disk size: 9669.4 KB)
+0035.246 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.4 MB, 16122 files batched, 501 (6013) added so far); re-opening (prior size: 9669.4 KB)
+0036.800 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6100 files added (on-disk size: 9939.5 KB)
+0036.888 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6200 files added (on-disk size: 9939.5 KB)
+0036.969 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6300 files added (on-disk size: 9939.5 KB)
+0037.029 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6400 files added (on-disk size: 9939.5 KB)
+0037.091 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6500 files added (on-disk size: 9939.5 KB)
+0037.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 16122 files batched, 501 (6514) added so far); re-opening (prior size: 9939.5 KB)
+0038.384 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6600 files added (on-disk size: 10716.9 KB)
+0038.447 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6700 files added (on-disk size: 10716.9 KB)
+0038.511 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6800 files added (on-disk size: 10716.9 KB)
+0038.573 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 6900 files added (on-disk size: 10716.9 KB)
+0038.634 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7000 files added (on-disk size: 10716.9 KB)
+0038.644 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.1 MB, 16122 files batched, 501 (7015) added so far); re-opening (prior size: 10716.9 KB)
+0040.697 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7100 files added (on-disk size: 12976.3 KB)
+0040.757 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7200 files added (on-disk size: 12976.3 KB)
+0040.822 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7300 files added (on-disk size: 12976.3 KB)
+0040.891 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7400 files added (on-disk size: 12976.3 KB)
+0040.953 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7500 files added (on-disk size: 12976.3 KB)
+0040.969 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 16122 files batched, 501 (7516) added so far); re-opening (prior size: 12976.3 KB)
+0042.289 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7600 files added (on-disk size: 13538.8 KB)
+0042.361 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7700 files added (on-disk size: 13538.8 KB)
+0042.427 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7800 files added (on-disk size: 13538.8 KB)
+0042.491 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 7900 files added (on-disk size: 13538.8 KB)
+0042.557 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8000 files added (on-disk size: 13538.8 KB)
+0042.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 16122 files batched, 501 (8017) added so far); re-opening (prior size: 13538.8 KB)
+0043.967 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8100 files added (on-disk size: 14431.7 KB)
+0044.033 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8200 files added (on-disk size: 14431.7 KB)
+0044.098 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8300 files added (on-disk size: 14431.7 KB)
+0044.165 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8400 files added (on-disk size: 14431.7 KB)
+0044.235 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8500 files added (on-disk size: 14431.7 KB)
+0044.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.3 MB, 16122 files batched, 501 (8518) added so far); re-opening (prior size: 14431.7 KB)
+0048.118 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8600 files added (on-disk size: 18032.2 KB)
+0048.207 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8700 files added (on-disk size: 18032.2 KB)
+0048.279 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8800 files added (on-disk size: 18032.2 KB)
+0048.352 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 8900 files added (on-disk size: 18032.2 KB)
+0048.418 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9000 files added (on-disk size: 18032.2 KB)
+0048.432 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 MB, 16122 files batched, 501 (9019) added so far); re-opening (prior size: 18032.2 KB)
+0049.984 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9100 files added (on-disk size: 18756.2 KB)
+0050.045 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9200 files added (on-disk size: 18756.2 KB)
+0050.111 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9300 files added (on-disk size: 18756.2 KB)
+0050.181 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9400 files added (on-disk size: 18756.2 KB)
+0050.248 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9500 files added (on-disk size: 18756.2 KB)
+0050.263 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.6 MB, 16122 files batched, 501 (9520) added so far); re-opening (prior size: 18756.2 KB)
+0051.675 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9600 files added (on-disk size: 19121.5 KB)
+0051.756 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9700 files added (on-disk size: 19121.5 KB)
+0051.831 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9800 files added (on-disk size: 19121.5 KB)
+0051.898 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 9900 files added (on-disk size: 19121.5 KB)
+0051.967 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10000 files added (on-disk size: 19121.5 KB)
+0051.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 16122 files batched, 501 (10021) added so far); re-opening (prior size: 19121.5 KB)
+0053.461 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10100 files added (on-disk size: 19709.5 KB)
+0053.528 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10200 files added (on-disk size: 19709.5 KB)
+0053.610 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10300 files added (on-disk size: 19709.5 KB)
+0053.678 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10400 files added (on-disk size: 19709.5 KB)
+0053.745 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10500 files added (on-disk size: 19709.5 KB)
+0053.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.9 MB, 16122 files batched, 501 (10522) added so far); re-opening (prior size: 19709.5 KB)
+0055.426 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10600 files added (on-disk size: 20665.5 KB)
+0055.490 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10700 files added (on-disk size: 20665.5 KB)
+0055.552 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10800 files added (on-disk size: 20665.5 KB)
+0055.617 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 10900 files added (on-disk size: 20665.5 KB)
+0055.680 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11000 files added (on-disk size: 20665.5 KB)
+0055.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.4 MB, 16122 files batched, 501 (11023) added so far); re-opening (prior size: 20665.5 KB)
+0057.200 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11100 files added (on-disk size: 20933.7 KB)
+0057.267 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11200 files added (on-disk size: 20933.7 KB)
+0057.285 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (45.8 MB, 16122 files batched, 197 (11220) added so far); re-opening (prior size: 20933.7 KB)
+0067.145 (0) A useful amount of data was added after this amount of zip processing: 11 s (normalised: 6 s, rate: 4275.4 KB/s)
+0067.149 (0) Performance is good - will increase the amount of data we attempt to batch (time=10.970773935318, normalised_time=5.9877401726743, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=26268073)
+0067.221 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25.1 MB added on this batch (25.9 MB, 16122 files batched, 24 (11244) added so far); re-opening (prior size: 30947.9 KB)
+0073.365 (0) A useful amount of data was added after this amount of zip processing: 7.2 s (normalised: 7 s, rate: 3683.4 KB/s)
+0073.461 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11300 files added (on-disk size: 36447.2 KB)
+0073.531 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11400 files added (on-disk size: 36447.2 KB)
+0073.596 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11500 files added (on-disk size: 36447.2 KB)
+0073.663 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11600 files added (on-disk size: 36447.2 KB)
+0073.734 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11700 files added (on-disk size: 36447.2 KB)
+0073.766 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (24.8 MB, 16122 files batched, 501 (11745) added so far); re-opening (prior size: 36447.2 KB)
+0080.838 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11800 files added (on-disk size: 42588.3 KB)
+0080.908 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 11900 files added (on-disk size: 42588.3 KB)
+0080.974 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12000 files added (on-disk size: 42588.3 KB)
+0081.049 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12100 files added (on-disk size: 42588.3 KB)
+0081.117 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12200 files added (on-disk size: 42588.3 KB)
+0081.150 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 16122 files batched, 501 (12246) added so far); re-opening (prior size: 42588.3 KB)
+0083.240 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12300 files added (on-disk size: 43531.4 KB)
+0083.312 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12400 files added (on-disk size: 43531.4 KB)
+0083.381 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12500 files added (on-disk size: 43531.4 KB)
+0083.449 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12600 files added (on-disk size: 43531.4 KB)
+0083.520 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12700 files added (on-disk size: 43531.4 KB)
+0083.556 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 MB, 16122 files batched, 501 (12747) added so far); re-opening (prior size: 43531.4 KB)
+0086.020 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12800 files added (on-disk size: 44275.9 KB)
+0086.087 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 12900 files added (on-disk size: 44275.9 KB)
+0086.155 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13000 files added (on-disk size: 44275.9 KB)
+0086.218 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13100 files added (on-disk size: 44275.9 KB)
+0086.285 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13200 files added (on-disk size: 44275.9 KB)
+0086.317 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 MB, 16122 files batched, 501 (13248) added so far); re-opening (prior size: 44275.9 KB)
+0089.194 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13300 files added (on-disk size: 45788.9 KB)
+0089.260 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13400 files added (on-disk size: 45788.9 KB)
+0089.335 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13500 files added (on-disk size: 45788.9 KB)
+0089.402 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13600 files added (on-disk size: 45788.9 KB)
+0089.464 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13700 files added (on-disk size: 45788.9 KB)
+0089.495 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 16122 files batched, 501 (13749) added so far); re-opening (prior size: 45788.9 KB)
+0091.831 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13800 files added (on-disk size: 46856.9 KB)
+0091.915 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 13900 files added (on-disk size: 46856.9 KB)
+0091.997 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14000 files added (on-disk size: 46856.9 KB)
+0092.078 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14100 files added (on-disk size: 46856.9 KB)
+0092.157 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14200 files added (on-disk size: 46856.9 KB)
+0092.198 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.4 MB, 16122 files batched, 501 (14250) added so far); re-opening (prior size: 46856.9 KB)
+0094.455 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14300 files added (on-disk size: 47127.6 KB)
+0094.516 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14400 files added (on-disk size: 47127.6 KB)
+0094.583 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14500 files added (on-disk size: 47127.6 KB)
+0094.654 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14600 files added (on-disk size: 47127.6 KB)
+0094.729 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14700 files added (on-disk size: 47127.6 KB)
+0094.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 16122 files batched, 501 (14751) added so far); re-opening (prior size: 47127.6 KB)
+0097.007 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14800 files added (on-disk size: 47719.2 KB)
+0097.097 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 14900 files added (on-disk size: 47719.2 KB)
+0097.185 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15000 files added (on-disk size: 47719.2 KB)
+0097.275 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15100 files added (on-disk size: 47719.2 KB)
+0097.360 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15200 files added (on-disk size: 47719.2 KB)
+0097.404 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 16122 files batched, 501 (15252) added so far); re-opening (prior size: 47719.2 KB)
+0099.688 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15300 files added (on-disk size: 48470.8 KB)
+0099.757 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15400 files added (on-disk size: 48470.8 KB)
+0099.828 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15500 files added (on-disk size: 48470.8 KB)
+0099.898 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15600 files added (on-disk size: 48470.8 KB)
+0099.968 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15700 files added (on-disk size: 48470.8 KB)
+0100.014 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.2 MB, 16122 files batched, 501 (15753) added so far); re-opening (prior size: 48470.8 KB)
+0102.861 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15800 files added (on-disk size: 49810.3 KB)
+0102.932 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 15900 files added (on-disk size: 49810.3 KB)
+0103.004 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 16000 files added (on-disk size: 49810.3 KB)
+0103.071 (0) Zip: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip.tmp: 16100 files added (on-disk size: 49810.3 KB)
+0106.666 (0) Created themes zip (0) - 50266.4 KB in 98.2 s (511.9 KB/s) (sha1: 0aca3d1127533d0033c612c33dd706f5ad952c5e, sha256: 649d1e93449d71dce48bd8f668f17b128a5a6ea42b8407cbfbf2e576155d16a0)
+0106.678 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0106.679 (0) Looking for candidates to back up in: /srv/www/friends-of-frieda-garcia-park.com/current/web/app/uploads
+0106.681 (0) finding files: .gitkeep: adding to list (1)
+0106.683 (0) finding files: 2017: adding to list (2)
+0106.684 (0) finding files: 2018: adding to list (3)
+0106.685 (0) finding files: backup-guard: skipping: excluded by options (glob)
+0106.687 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0106.712 (0) Total entities for the zip file: 4 directories, 35 files (0 skipped as non-modified), 11.2 MB
+0107.283 (0) Created uploads zip (0) - 11429.6 KB in 0.6 s (19441.5 KB/s) (sha1: 5fa63a1b1fd3059745851d311776a9652459bfb8, sha256: 151d4de936f54a1bda937ae1cb9b7141a06a0ffb20812fd9fa62d1461b8c083c)
+0107.295 (0) Beginning backup of other directories found in the content directory (index: 0)
+0107.297 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0107.298 (0) Looking for candidates to back up in: /srv/www/friends-of-frieda-garcia-park.com/current/web/app
+0107.300 (0) finding files: upgrade: skipping: excluded by options
+0107.301 (0) finding files: .DS_Store: adding to list (1)
+0107.303 (0) finding files: plugins: skipping: this is the plugins directory
+0107.304 (0) finding files: uploads: skipping: this is the uploads directory
+0107.305 (0) finding files: updraft: skipping: this is the updraft directory
+0107.306 (0) finding files: themes: skipping: this is the themes directory
+0107.308 (0) finding files: mu-plugins: adding to list (2)
+0107.322 (0) Total entities for the zip file: 1 directories, 4 files (0 skipped as non-modified), 0 MB
+0107.350 (0) Created others zip (0) - 4 KB in 0 s (114.6 KB/s) (sha1: 49e7919a72d22bbb4a0858ccaa9b99bfd895e374, sha256: b1c4681a6310397db1ba22bc3a7e5223fe21250771bd76141a3350979e5576c8)
+0107.362 (0) Saving backup status to database (elements: 8)
+0107.365 (0) Beginning creation of database dump (WordPress DB)
+0107.391 (0) Table wp_options: Total expected rows (approximate): 187
+0107.430 (0) Table wp_options: Total rows added: 188 in 0.04 seconds
+0107.437 (0) Table wp_options: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_options.table.gz - 168.9 KB)
+0107.451 (0) Table wp_users: Total expected rows (approximate): 0
+0107.454 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0107.457 (0) Table wp_users: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_users.table.gz - 0.6 KB)
+0107.470 (0) Table wp_usermeta: Total expected rows (approximate): 27
+0107.474 (0) Table wp_usermeta: Total rows added: 27 in 0.00 seconds
+0107.477 (0) Table wp_usermeta: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_usermeta.table.gz - 1.2 KB)
+0107.490 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0107.493 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0107.497 (0) Table wp_commentmeta: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0107.510 (0) Table wp_comments: Total expected rows (approximate): 0
+0107.513 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0107.516 (0) Table wp_comments: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_comments.table.gz - 0.7 KB)
+0107.531 (0) Table wp_links: Total expected rows (approximate): 0
+0107.536 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0107.539 (0) Table wp_links: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_links.table.gz - 0.4 KB)
+0107.554 (0) Table wp_postmeta: Total expected rows (approximate): 894
+0107.568 (0) Table wp_postmeta: Total rows added: 887 in 0.01 seconds
+0107.572 (0) Table wp_postmeta: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_postmeta.table.gz - 12.2 KB)
+0107.583 (0) Table wp_posts: Total expected rows (approximate): 118
+0107.593 (0) Table wp_posts: Total rows added: 110 in 0.01 seconds
+0107.597 (0) Table wp_posts: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_posts.table.gz - 7.3 KB)
+0107.611 (0) Table wp_term_relationships: Total expected rows (approximate): 12
+0107.615 (0) Table wp_term_relationships: Total rows added: 12 in 0.00 seconds
+0107.618 (0) Table wp_term_relationships: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0107.630 (0) Table wp_term_taxonomy: Total expected rows (approximate): 0
+0107.633 (0) Table wp_term_taxonomy: Total rows added: 2 in 0.00 seconds
+0107.636 (0) Table wp_term_taxonomy: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0107.648 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0107.650 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0107.653 (0) Table wp_termmeta: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_termmeta.table.gz - 0.4 KB)
+0107.665 (0) Table wp_terms: Total expected rows (approximate): 0
+0107.668 (0) Table wp_terms: Total rows added: 2 in 0.00 seconds
+0107.670 (0) Table wp_terms: finishing file (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_terms.table.gz - 0.4 KB)
+0107.682 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_options.table.gz (1/12): adding to final database dump
+0107.713 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_users.table.gz (2/12): adding to final database dump
+0107.717 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0107.720 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0107.722 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0107.725 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_links.table.gz (6/12): adding to final database dump
+0107.728 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0107.735 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0107.739 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0107.742 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0107.745 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0107.748 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0107.755 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db.gz: finished writing out complete database file (184 KB)
+0107.773 (0) Total database tables backed up: 12 (backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db.gz, size: 195330, sha256)
+0107.780 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0107.781 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0107.783 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0107.784 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0107.785 (0) backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0107.787 (0) Saving backup history. Total backup size: 70.5 MB
+0107.789 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0107.795 (0) Cloud backup selection (1/1): none (last)
+0107.797 (0) No remote despatch: user chose no remote backup service
+0107.801 (0) Recording as successfully uploaded: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-plugins.zip (2ad64f16fbbfc4e21172b41582a0cb35)
+0107.808 (0) Recording as successfully uploaded: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-themes.zip (ed56533561ed4b0680f0484e63e036ed)
+0107.815 (0) Recording as successfully uploaded: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-uploads.zip (724e49d24503079ec706f6e4a9072d8c)
+0107.831 (0) Recording as successfully uploaded: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-others.zip (927256664b0ea719633479f0f1fe9389)
+0107.839 (0) Recording as successfully uploaded: backup_2018-01-11-1615_Friends_of_Frieda_Garcia_Park_13e9fbdae03b-db.gz (8f3cadad16bc8f1aa3f9f367664200f1)
+0107.849 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0107.851 (0) Number of backup sets in history: 1; groups (db): 1
+0107.852 (0) Examining (for databases) backup set with group_id=0, nonce=13e9fbdae03b, datestamp=1515687308 (Jan 11 2018 16:15:08)
+0107.854 (0) This backup set is the backup set just made, so will not be deleted.
+0107.856 (0) Number of backup sets in history: 1; groups (files): 1
+0107.857 (0) Examining (for files) backup set with nonce=13e9fbdae03b, datestamp=1515687308 (Jan 11 2018 16:15:08)
+0107.859 (0) This backup set is the backup set just made, so will not be deleted.
+0107.860 (0) This backup set is the backup set just made, so will not be deleted.
+0107.860 (0) This backup set is the backup set just made, so will not be deleted.
+0107.861 (0) This backup set is the backup set just made, so will not be deleted.
+0107.862 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0107.864 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0107.871 (0) Resume backup (13e9fbdae03b, 0): finish run
+0107.875 (0) Decremented the semaphore (fd) by 1
+0107.877 (0) Semaphore (fd) unlocked
+0107.879 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0107.884 (0) No email will/can be sent - the user has not configured an email address.
+0107.886 (0) The backup apparently succeeded and is now complete

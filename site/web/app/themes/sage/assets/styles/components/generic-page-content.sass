@@ -1,0 +1,19 @@
+.generic-page-content-section
+    display: flex
+    justify-content: flex-end
+    padding-top: $page-header-padding
+    @media only screen and (max-width: $max-mobile-width)
+        padding: 0 $default-padding
+    .generic-page-content-row
+        right: 0
+        width: 75%
+        *
+          max-width: $max-mobile-width
+    img
+      height: auto
+      width: 100%
+@media only screen and (max-width: $max-mobile-width)
+  .generic-page-content-section
+    .generic-page-content-row
+      width: 100%
+      margin: 0
